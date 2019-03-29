@@ -15,7 +15,7 @@ def first_challenge
 
   #your code here
   contacts.each do |person, data|
-  if person == "Freddy Mercury"
+  if person == "Freddy Mercury" && data == :favorite_icecream_flavors
     
   
   end #end if 
